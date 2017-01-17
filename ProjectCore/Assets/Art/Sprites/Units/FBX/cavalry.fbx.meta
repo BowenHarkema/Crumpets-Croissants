@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 71e2a6971e0f224498e645dcabe699bd
+timeCreated: 1484151712
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankleback_b
+    100002: ankleback_f
+    100004: anklefront_b
+    100006: anklefront_f
+    100008: backfoot_b
+    100010: backfoot_f
+    100012: backhip_b
+    100014: backhip_f
+    100016: backleg_b
+    100018: backleg_f
+    100020: backleg_f 1
+    100022: backlegb
+    100024: //RootNode
+    100026: footback_b
+    100028: footback_f
+    100030: footfront_b
+    100032: footfront_f
+    100034: frontfoot_b
+    100036: frontfoot_f
+    100038: frontleg_b
+    100040: frontleg_b 1
+    100042: frontleg_f
+    100044: frontleg_f 1
+    100046: frontshoulder_b
+    100048: frontshoulder_f
+    100050: hip_b
+    100052: hip_f
+    100054: ikHandle2
+    100056: ikHandle4
+    100058: ikHandle5
+    100060: ikHandle6
+    100062: kneeback_b
+    100064: kneeback_f
+    100066: kneefront_b
+    100068: kneefront_f
+    100070: shoulder_b
+    100072: shoulder_f
+    100074: soldier_hand
+    100076: soldier_shoulder
+    100078: soldier_sword
+    100080: soldier_torso
+    100082: sword
+    100084: swordarm
+    100086: torso
+    100088: torso1
+    100090: upper_arm
+    400000: ankleback_b
+    400002: ankleback_f
+    400004: anklefront_b
+    400006: anklefront_f
+    400008: backfoot_b
+    400010: backfoot_f
+    400012: backhip_b
+    400014: backhip_f
+    400016: backleg_b
+    400018: backleg_f
+    400020: backleg_f 1
+    400022: backlegb
+    400024: //RootNode
+    400026: footback_b
+    400028: footback_f
+    400030: footfront_b
+    400032: footfront_f
+    400034: frontfoot_b
+    400036: frontfoot_f
+    400038: frontleg_b
+    400040: frontleg_b 1
+    400042: frontleg_f
+    400044: frontleg_f 1
+    400046: frontshoulder_b
+    400048: frontshoulder_f
+    400050: hip_b
+    400052: hip_f
+    400054: ikHandle2
+    400056: ikHandle4
+    400058: ikHandle5
+    400060: ikHandle6
+    400062: kneeback_b
+    400064: kneeback_f
+    400066: kneefront_b
+    400068: kneefront_f
+    400070: shoulder_b
+    400072: shoulder_f
+    400074: soldier_hand
+    400076: soldier_shoulder
+    400078: soldier_sword
+    400080: soldier_torso
+    400082: sword
+    400084: swordarm
+    400086: torso
+    400088: torso1
+    400090: upper_arm
+    2300000: backfoot_b
+    2300002: backfoot_f
+    2300004: backhip_b
+    2300006: backhip_f
+    2300008: backleg_f 1
+    2300010: backlegb
+    2300012: frontfoot_b
+    2300014: frontfoot_f
+    2300016: frontleg_b 1
+    2300018: frontleg_f 1
+    2300020: frontshoulder_b
+    2300022: frontshoulder_f
+    2300024: sword
+    2300026: torso
+    2300028: upper_arm
+    3300000: backfoot_b
+    3300002: backfoot_f
+    3300004: backhip_b
+    3300006: backhip_f
+    3300008: backleg_f 1
+    3300010: backlegb
+    3300012: frontfoot_b
+    3300014: frontfoot_f
+    3300016: frontleg_b 1
+    3300018: frontleg_f 1
+    3300020: frontshoulder_b
+    3300022: frontshoulder_f
+    3300024: sword
+    3300026: torso
+    3300028: upper_arm
+    4300000: frontfoot_b
+    4300002: frontleg_b
+    4300004: frontshoulder_b
+    4300006: backfoot_b
+    4300008: backlegb
+    4300010: backhip_b
+    4300012: backfoot_f
+    4300014: backleg_f
+    4300016: backhip_f
+    4300018: sword
+    4300020: upper_arm
+    4300022: torso
+    4300024: frontfoot_f
+    4300026: frontleg_f
+    4300028: frontshoulder_f
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 150
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
